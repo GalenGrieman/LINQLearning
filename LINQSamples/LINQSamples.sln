@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQSamples", "LINQSamples.csproj", "{D81E4189-C334-42EC-9881-99A106276B62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Features", "..\Features\Features.csproj", "{21DA04B6-1372-4AA4-8CD0-154820648A60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queries", "..\Queries\Queries.csproj", "{F5F79C5C-3915-4EAA-B7F8-2AF8DF566BD8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cars", "..\Cars\Cars.csproj", "{DBB3C1AE-2885-4E2A-BE35-FD96E304CCAD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQXMLFile", "..\LINQXMLFile\LINQXMLFile.csproj", "{DF154757-99DF-4952-9C2D-F668CA6C65D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQEntityFrameWork", "..\LINQEntityFrameWork01\LINQEntityFrameWork.csproj", "{4FDDA772-FFFC-4891-9ED2-2DBF8786208C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D81E4189-C334-42EC-9881-99A106276B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81E4189-C334-42EC-9881-99A106276B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81E4189-C334-42EC-9881-99A106276B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81E4189-C334-42EC-9881-99A106276B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21DA04B6-1372-4AA4-8CD0-154820648A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DA04B6-1372-4AA4-8CD0-154820648A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DA04B6-1372-4AA4-8CD0-154820648A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DA04B6-1372-4AA4-8CD0-154820648A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F79C5C-3915-4EAA-B7F8-2AF8DF566BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F79C5C-3915-4EAA-B7F8-2AF8DF566BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F79C5C-3915-4EAA-B7F8-2AF8DF566BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F79C5C-3915-4EAA-B7F8-2AF8DF566BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBB3C1AE-2885-4E2A-BE35-FD96E304CCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB3C1AE-2885-4E2A-BE35-FD96E304CCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB3C1AE-2885-4E2A-BE35-FD96E304CCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB3C1AE-2885-4E2A-BE35-FD96E304CCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF154757-99DF-4952-9C2D-F668CA6C65D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF154757-99DF-4952-9C2D-F668CA6C65D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF154757-99DF-4952-9C2D-F668CA6C65D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF154757-99DF-4952-9C2D-F668CA6C65D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FDDA772-FFFC-4891-9ED2-2DBF8786208C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDDA772-FFFC-4891-9ED2-2DBF8786208C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDDA772-FFFC-4891-9ED2-2DBF8786208C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDDA772-FFFC-4891-9ED2-2DBF8786208C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33E0EEF4-CEA2-424C-88C7-EA5EA5E4276A}
+	EndGlobalSection
+EndGlobal

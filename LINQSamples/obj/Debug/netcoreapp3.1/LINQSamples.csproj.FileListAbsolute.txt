@@ -1,0 +1,13 @@
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\LINQSamples\bin\Debug\netcoreapp3.1\LINQSamples.exe
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\LINQSamples\bin\Debug\netcoreapp3.1\LINQSamples.deps.json
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\LINQSamples\bin\Debug\netcoreapp3.1\LINQSamples.runtimeconfig.json
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\LINQSamples\bin\Debug\netcoreapp3.1\LINQSamples.runtimeconfig.dev.json
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\LINQSamples\bin\Debug\netcoreapp3.1\LINQSamples.dll
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\LINQSamples\bin\Debug\netcoreapp3.1\LINQSamples.pdb
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\LINQSamples\obj\Debug\netcoreapp3.1\LINQSamples.csprojAssemblyReference.cache
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\LINQSamples\obj\Debug\netcoreapp3.1\LINQSamples.AssemblyInfoInputs.cache
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\LINQSamples\obj\Debug\netcoreapp3.1\LINQSamples.AssemblyInfo.cs
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\LINQSamples\obj\Debug\netcoreapp3.1\LINQSamples.csproj.CoreCompileInputs.cache
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\LINQSamples\obj\Debug\netcoreapp3.1\LINQSamples.dll
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\LINQSamples\obj\Debug\netcoreapp3.1\LINQSamples.pdb
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\LINQSamples\obj\Debug\netcoreapp3.1\LINQSamples.genruntimeconfig.cache
