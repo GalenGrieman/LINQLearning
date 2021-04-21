@@ -1,0 +1,13 @@
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Queries\bin\Debug\netcoreapp3.1\Queries.exe
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Queries\bin\Debug\netcoreapp3.1\Queries.deps.json
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Queries\bin\Debug\netcoreapp3.1\Queries.runtimeconfig.json
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Queries\bin\Debug\netcoreapp3.1\Queries.runtimeconfig.dev.json
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Queries\bin\Debug\netcoreapp3.1\Queries.dll
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Queries\bin\Debug\netcoreapp3.1\Queries.pdb
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Queries\obj\Debug\netcoreapp3.1\Queries.csprojAssemblyReference.cache
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Queries\obj\Debug\netcoreapp3.1\Queries.AssemblyInfoInputs.cache
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Queries\obj\Debug\netcoreapp3.1\Queries.AssemblyInfo.cs
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Queries\obj\Debug\netcoreapp3.1\Queries.csproj.CoreCompileInputs.cache
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Queries\obj\Debug\netcoreapp3.1\Queries.dll
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Queries\obj\Debug\netcoreapp3.1\Queries.pdb
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Queries\obj\Debug\netcoreapp3.1\Queries.genruntimeconfig.cache
