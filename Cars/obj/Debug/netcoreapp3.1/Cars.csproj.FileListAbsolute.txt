@@ -1,0 +1,15 @@
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Cars\bin\Debug\netcoreapp3.1\fuel.csv
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Cars\obj\Debug\netcoreapp3.1\Cars.csprojAssemblyReference.cache
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Cars\bin\Debug\netcoreapp3.1\manufacturers.csv
