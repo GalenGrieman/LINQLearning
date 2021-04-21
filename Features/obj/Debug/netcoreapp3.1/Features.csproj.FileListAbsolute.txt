@@ -1,0 +1,13 @@
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Features\bin\Debug\netcoreapp3.1\Features.exe
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Features\bin\Debug\netcoreapp3.1\Features.deps.json
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Features\bin\Debug\netcoreapp3.1\Features.runtimeconfig.json
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Features\bin\Debug\netcoreapp3.1\Features.runtimeconfig.dev.json
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Features\bin\Debug\netcoreapp3.1\Features.dll
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Features\bin\Debug\netcoreapp3.1\Features.pdb
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Features\obj\Debug\netcoreapp3.1\Features.csprojAssemblyReference.cache
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfoInputs.cache
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfo.cs
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Features\obj\Debug\netcoreapp3.1\Features.csproj.CoreCompileInputs.cache
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Features\obj\Debug\netcoreapp3.1\Features.dll
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Features\obj\Debug\netcoreapp3.1\Features.pdb
+D:\Games\Portfolio\VisualStudioProjects\LINQFundamentals\Features\obj\Debug\netcoreapp3.1\Features.genruntimeconfig.cache
